@@ -9,4 +9,4 @@ elif n2 > n1 and n2 > n3:
 elif n3 > n1 and n3 > n2:
     print("O maior número é: ", n3)
 
-input("Digite Enter para sair do programa...")
+input("Pressione Enter para sair do programa...")
