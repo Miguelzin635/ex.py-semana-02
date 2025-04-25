@@ -25,4 +25,4 @@ elif saldo_medio <= 200:
     
     print("Seu valor de crédito é: ", ate200)
 
-input("\nAperta qualquer tecla para fechar o programa...")
+input("\nAperta Enter para fechar o programa...")
