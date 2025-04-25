@@ -9,3 +9,5 @@ if media < 6:
     print("Reprovado")
 else:
     print("Aprovado")
+
+input("\nPressione Enter para fechar o programa...")
