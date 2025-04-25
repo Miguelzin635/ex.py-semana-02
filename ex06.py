@@ -6,4 +6,4 @@ if salario < 500:
 else:
     print("Você não tem direito a aumento.")
 
-input("Pressione qualquer tecla para fechar o programa...")
+input("Pressione Enter para fechar o programa...")
