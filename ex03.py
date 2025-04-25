@@ -6,4 +6,4 @@ if n1 > n2:
 else:
     print(n1, "é o menor número")
 
-input("Digite qualquer tecla para sair do aplicativo...")
+input("\nDigite qualquer tecla para sair do aplicativo...")
