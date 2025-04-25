@@ -34,4 +34,4 @@ elif escolha == 4:
     divisao = n1 / n2
     print("A divisão entre", n1, "e", n2, "é: ", divisao)
 
-input("Digite qualquer tecla para sair do programa...")
+input("Digite Enter para sair do programa...")
