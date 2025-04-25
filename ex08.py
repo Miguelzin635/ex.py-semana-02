@@ -11,4 +11,4 @@ if salario <= 300:
 else:
     print(f"\nSeu novo salário é: R${salario + (salario * 0.15):.2f}")
 
-input("\nPressione qualquer tecla para fechar o programa...")
+input("\nPressione Enter para fechar o programa...")
