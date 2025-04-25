@@ -11,4 +11,4 @@ elif media >= 4.0 and media < 7.0:
 elif media >= 7.0 and media < 10.0:
     print("Aprovado")
 
-input("\nPressione qualquer tecla para sair...")
+input("\nPressione Enter para sair...")
