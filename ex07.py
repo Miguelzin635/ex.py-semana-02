@@ -20,6 +20,6 @@ elif escolha == 3:
     n1 = float(input("\nDigite o primeiro número: "))
     n2 = float(input("Digite o segundo número: "))
     print(f"O produto entre {n1} e {n2} é: {n1 * n2:.2f}")
-    input("\nPressione qualquer tecla para fechar o programa...")
+    input("\nPressione Enter para fechar o programa...")
 else: 
     print("Opção inválida!")
