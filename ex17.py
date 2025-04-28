@@ -7,11 +7,11 @@ pagamentos = int(input("Digite o número de pagamentos realizados nos últimos 6
 
 if idade >=25 and idade <= 60 and salario >= 3000:
     if dividas <= salario * 0.20 and pagamentos >= 2:
-            print("Você foi aprovado!")
+            print("Crédito aprovado!")
     elif dividas == 0 and pagamentos >= 0 and pagamentos <= 1:
-        print("Você foi aprovado!")
-    else: print("Você foi reprovado!")
+        print("Crédito aprovado!")
+    else: print("Crédito reprovado!")
 else:
-    print("Você foi reprovado!")
+    print("Crédito reprovado!")
 
 input("\nPressione Enter para fechar o programa...")   
