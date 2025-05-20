@@ -1,1 +1,1 @@
-# ex.py-semana-02
+# ex.py-semana-02 - Estruturas de seleção
